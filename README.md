@@ -1,1 +1,1 @@
-Sign Up for Love Running
+ Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
