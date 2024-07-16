@@ -1,4 +1,3 @@
-This is just to test GitHub
 <!DOCTYPE html>
 <html lang="en">
 <head>
